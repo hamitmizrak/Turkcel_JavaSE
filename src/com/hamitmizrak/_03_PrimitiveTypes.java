@@ -5,7 +5,7 @@ public class _03_PrimitiveTypes {
 	public static void main(String[] args) {
 		
 		// primitive types: stack memory: hafıza uzayı belli olan,heap'e göre daha
-		// hızlıdır
+		// hızlıdır deneme44
 		
 		// tam sayılar
 		byte b1 = 44;
@@ -29,6 +29,7 @@ public class _03_PrimitiveTypes {
 		System.out.println(cellPhone1);
 		
 		int cellPhone2 = 111_22_33;
+		
 		System.out.println(cellPhone2);
 		
 	}
