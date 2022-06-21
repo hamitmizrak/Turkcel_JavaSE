@@ -8,24 +8,19 @@ public class Sunum {
 	// Grup-7 heinsberg
 	
 	// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-	// Grup-1 Oak2
+	
 	// interpreter compiler nedir, aralarındaki farklar ?
 	// Java interpreter ? compiler ?
 	// JavaScript interpreter ? compiler ?
 	// open source nedir ?
+	// JdK JRE JVM nedir ?
 	
 	// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-	// Grup-7 heinsberg
-	// JdK JRE JVM nedir ?
 	// JIT nedir ?
 	// Java 100% OOP ?
 	// Java By Pass Value ? By Pass Referances ?
-	
-	// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-	// Grup-2 Java8
 	// primitive types -wrapper class arasındaki farklar ?
 	// stack memory heap memory nedir ? aralarındaki farklar
-	
 	// Java 8 gelen özellikler nelerdir ?
 	// ascii - unicodes ?
 	
