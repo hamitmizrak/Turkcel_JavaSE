@@ -1,6 +1,6 @@
-package com.examples;
+package com.hamitmizrak;
 
-public class _01_BilinmeyenliDenklerm {
+public class _05x1_BilinmeyenliDenklerm {
 	public static void main(String[] args) {
 		
 		// 1.soru

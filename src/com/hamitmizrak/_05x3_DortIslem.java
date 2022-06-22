@@ -1,6 +1,6 @@
-package com.examples;
+package com.hamitmizrak;
 
-public class _03_DortIslem {
+public class _05x3_DortIslem {
 	public static void main(String[] args) {
 		
 		// 3.soru iki sayıda dört işlem

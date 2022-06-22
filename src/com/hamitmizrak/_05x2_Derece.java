@@ -1,6 +1,6 @@
-package com.examples;
+package com.hamitmizrak;
 
-public class _02_Derece {
+public class _05x2_Derece {
 	public static void main(String[] args) {
 		
 		// 2.soru
