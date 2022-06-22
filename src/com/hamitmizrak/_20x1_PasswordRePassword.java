@@ -2,7 +2,7 @@ package com.hamitmizrak;
 
 import java.util.Scanner;
 
-public class _17x2_PasswordRePassword {
+public class _20x1_PasswordRePassword {
 	public static void main(String[] args) {
 		
 		// Örnek-2 (Password Repassword)
