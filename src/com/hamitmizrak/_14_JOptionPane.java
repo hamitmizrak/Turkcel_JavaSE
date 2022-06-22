@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import javax.swing.JOptionPane;
 
-public class _14_JOptional {
+public class _14_JOptionPane {
 	public static void main(String[] args) {
 		
 		// Scanner
