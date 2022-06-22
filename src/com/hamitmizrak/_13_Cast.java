@@ -36,5 +36,8 @@ public class _13_Cast {
 		String cast4 = Integer.toString(number);// primitive
 		System.out.println(cast3 + cast4 + 14);
 		
+		// 6-) String cast
+		String str5 = 5 + ""; // buradaki tırnak String'e çeviriri
+		
 	}
 }
