@@ -2,7 +2,7 @@ package com.hamitmizrak;
 
 import java.util.Scanner;
 
-public class _21_Method {
+public class _22_Method {
 	
 	// voidliParametresiz
 	public static void voidliParametresiz() {

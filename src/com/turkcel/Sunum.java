@@ -15,6 +15,9 @@ public class Sunum {
 	
 	// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++Perşembe
 	// primitive types -wrapper class arasındaki farklar ?
+	// access modifier (public-private-protected-default)
+	// Syntax error - logic error - compiler error -run time error
+	// exception - error ?
 	// stack memory heap memory nedir ? aralarındaki farklar ?
 	// open source nedir ?
 	
