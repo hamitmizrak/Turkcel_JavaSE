@@ -10,6 +10,7 @@ public class _22_Method {
 	}
 	
 	// voidliParametreli
+	// Parametre ==> int count
 	public static void voidliParametreli(int count) {
 		System.out.println("Voidli Parametreli: " + count);
 	}
@@ -25,6 +26,14 @@ public class _22_Method {
 	public static int voidsizParametreli(int number1, int number2) {
 		int toplam = 0;
 		toplam = number1 + number2;
+		return toplam;
+	}
+	
+	// Overloading: aynı metot isimleri olacak ancak parametre türü ve sayısı farklı
+	// olacak
+	public static int voidsizParametreli(int number1) {
+		int toplam = 0;
+		toplam = number1;
 		return toplam;
 	}
 	
@@ -45,6 +54,7 @@ public class _22_Method {
 		System.out.println("2.sayi giriniz");
 		int number2 = klavye.nextInt();
 		
+		// Argüman ==> number1, number2
 		int result = voidsizParametreli(number1, number2);
 		System.out.println(result);
 	}
