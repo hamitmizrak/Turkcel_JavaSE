@@ -8,7 +8,7 @@ public class _20x08_StringReverse {
 	// yazdığınız kelime kaç harfli ?
 	// Hamit ==> timaH
 	
-	// kullanaıcdan alınan data
+	// kullanıcıdan alınan data
 	public String scannerValueData() {
 		Scanner klavye = new Scanner(System.in);
 		System.out.println("+++++++++++\nbir seyler giriniz");
