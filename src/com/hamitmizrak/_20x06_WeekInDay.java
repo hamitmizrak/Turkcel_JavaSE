@@ -2,7 +2,7 @@ package com.hamitmizrak;
 
 import java.util.Scanner;
 
-public class _20x4_WeekInDay {
+public class _20x06_WeekInDay {
 	public static void main(String[] args) {
 		
 		// kullanıcıdan alınan günü Switch case ile gösterelim ?

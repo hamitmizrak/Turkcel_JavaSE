@@ -3,7 +3,7 @@ package com.hamitmizrak;
 import java.util.Random;
 
 // Örnek: 1-10 arasında 5 tane random sayı üretelim ? (Random, for)
-public class _20x3_0_RandomNumber {
+public class _20x03_0_RandomNumber {
 	public static void main(String[] args) {
 		
 		Random rastgele = new Random();

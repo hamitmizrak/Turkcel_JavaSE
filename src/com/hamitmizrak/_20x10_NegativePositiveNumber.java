@@ -2,7 +2,7 @@ package com.hamitmizrak;
 
 import java.util.Scanner;
 
-public class _20x5_NegativePositiveNumber {
+public class _20x10_NegativePositiveNumber {
 	public static void main(String[] args) {
 		
 		// kullanıcıdan alınan sayı büyük küçük

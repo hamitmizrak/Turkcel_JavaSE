@@ -2,7 +2,7 @@ package com.hamitmizrak;
 
 import java.util.Scanner;
 
-public class _20x6_Max_Min_Number {
+public class _20x11_Max_Min_Number {
 	public static void main(String[] args) {
 		
 		// kullanıcıdan alınan iki sayı için en büyüğünü bulan algoritma ?

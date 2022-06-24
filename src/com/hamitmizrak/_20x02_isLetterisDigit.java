@@ -2,7 +2,7 @@ package com.hamitmizrak;
 
 import java.util.Scanner;
 
-public class _20x2_isLetterisDigit {
+public class _20x02_isLetterisDigit {
 	public static void main(String[] args) {
 		
 		// Örnek-3 (anlamak)

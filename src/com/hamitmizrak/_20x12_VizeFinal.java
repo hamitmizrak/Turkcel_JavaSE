@@ -21,7 +21,7 @@ import java.util.Scanner;
 // while sonsuz döngü ==> while(true) {}
 // for sonsuz döngü ==> for(;;) {}
 
-public class _20x7_VizeFinal {
+public class _20x12_VizeFinal {
 	
 	public static void vizeFinal() {
 		
