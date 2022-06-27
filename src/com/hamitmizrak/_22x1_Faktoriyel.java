@@ -37,16 +37,33 @@ public class _22x1_Faktoriyel {
 		return facNumber * recursiveFactoriyel(facNumber - 1);
 	}
 	
-	public static void main(String[] args) throws HamitMizrakException {
-		// for (;;) {
-		// int result = iterativeFactoriyel(useData());
-		// System.out.println(result);
-		// }
+	public static void chooiseMethod() throws HamitMizrakException {
+		System.out.println("seçim yapınız\n1-)iterative faktöriyel\2-)recursive faktöriyel\3-)Çıkış");
 		
-		while (true) {
-			int result = recursiveFactoriyel(useData());
-			System.out.println(result);
+		Scanner klavye = new Scanner(System.in);
+		int chooise = klavye.nextInt();
+		switch (chooise) {
+			case 1:
+				for (;;) {
+					int result = iterativeFactoriyel(useData());
+					System.out.println(result);
+				}
+			case 2:
+				while (true) {
+					int result = recursiveFactoriyel(useData());
+					System.out.println(result);
+				}
+			case 3:
+				System.out.println("Çıkış yapılıyor");
+				break;
+			
+			default:
+				System.out.println("Farklı bir seçim");
 		}
+	}
+	
+	public static void main(String[] args) throws HamitMizrakException {
+		chooiseMethod();
 		
 	}
 	
