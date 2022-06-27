@@ -20,10 +20,16 @@ public class _0_AllCodesJar {
 	
 	// Password Mask
 	
+	// decoder encoder
+	
 	// Ebob
 	
 	// Ekok
 	
 	// Palindrom
+	
+	// diziler
+	// Linear Search
+	// Binary Search
 	
 }
