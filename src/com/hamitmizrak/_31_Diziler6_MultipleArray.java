@@ -5,6 +5,7 @@ public class _31_Diziler6_MultipleArray {
 	public static void main(String[] args) {
 		
 		// multiple Array
+		// diziler sıfırıncı(0) indiste başlar
 		int[][] matrix = new int[3][3];
 		matrix[0][0] = 0;
 		matrix[0][1] = 1;
