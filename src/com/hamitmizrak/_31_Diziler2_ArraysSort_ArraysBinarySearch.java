@@ -5,7 +5,7 @@ import java.util.Arrays;
 // dikkatttt binarySearch sıralanması gerekir önce Arrays.sort(dizi) yapmamız
 // gerekir
 // Eğer dizide eleman varsa indis döner yoksa negatif sayı döner
-public class _31_Diziler2 {
+public class _31_Diziler2_ArraysSort_ArraysBinarySearch {
 	
 	public static void main(String[] args) {
 		
