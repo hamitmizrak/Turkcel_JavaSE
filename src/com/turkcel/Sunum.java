@@ -36,4 +36,34 @@ public class Sunum {
 	// Java 8 gelen Ozellikler nelerdir ?
 	// ascii - unicodes ?
 	
+	// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	// serileştirme
+	// Serialization nedir ?
+	// Serialization objeleri Byte streama( ObjectInputStream(),
+	// ObjectOutputStream() ) dönüştürdüğümüz işlemlerdir.Ve böylece objelerimiz
+	// dosyaya ,veritabanına veya hafızaya kaydedebiliyoruz.
+	// Bunun tersine ise Deserialization deniyor.
+	// Ve Serialization işlemi kullanımı önerilmemektedir.buna alternatif olarak
+	// json formatı kullanılabilir.
+	// Eğer serial versiyon vermezisek sistem kendi yapısna göre kriptografik karma
+	// işlemiyle kendi oto üretir ve Maliyetli ,hata ve güvenlik açıkları oluşur
+	// İstisna sınıfımın neden serileştirilmesi gerekiyor?
+	//
+	// Bunun nedeni, tüm istisnalar için kök sınıf olan Throwable'ın
+	// Serileştirilebilir arabirimi uygulamasıdır. Varsayılan olarak tüm istisnalar
+	// seri
+	// hale getirilebilir ve bu bir dil tasarımı kararıdır çünkü yazarlar
+	// istisnaların herhangi bir özel konfigürasyon olmadan kablo üzerinden
+	// gönderilebilmesini istediler. Temel sınıf serileştirilebilir değilse,
+	// yerleşik istisna türleri üzerinde hiçbir kontrolünüz olmayacağından,
+	// uzak bir yöntemin başarısız olması durumunda tam olarak neyin yanlış
+	// gittiğini iletmekte zorlanabilirsiniz.
+	
+	// public static final long serialVersionUID=1L;
+	// public static final long serialVersionUID=92599146651L;
+	
+	// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	// MD5 (Mehmet Mustafa)
+	// SHA (Barış)
+	
 }

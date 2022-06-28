@@ -13,7 +13,7 @@ public class _30_Decoder_Encoder {
 	// Base64 kütüphanesini kullanırız.
 	// Encoder-Decoder JWT en çok kullanıyoruz.
 	// Neden kullanıyoruz ? Büyük verilerde az yer kaplar.
-	// Decoder-Encoder , MD5,SHA ile karıştırmayalım ......
+	// Decoder-Encoder , MD5 , SHA ile karıştırmayalım ......
 	
 	// Kullanıcıdan veri almak
 	public static String getDataFromUser() {
