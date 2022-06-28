@@ -1,5 +1,6 @@
 package com.hamitmizrak;
 
+// NOT: birden fazla metotla yapalım
 // kullanıcıdan alınan sayı kadar dizi elemanı olsun rastgele 1-10 arasındaki bu
 // sayıları bir diziye atayalım
 // sonra bu diziyi başka bir diziye clone edelim.
