@@ -43,7 +43,7 @@ public class _30_Decoder_Encoder {
 		
 		// Encoder(Şifreleme)
 		String encrypted = getEncoderData(kelime);
-		System.out.println("sifrelenmis data" + encrypted);
+		System.out.println("sifrelenmis data: " + encrypted);
 		
 		// Decoder(Çözmek)
 		String solved = getDecoderData(getEncoderData(kelime));
