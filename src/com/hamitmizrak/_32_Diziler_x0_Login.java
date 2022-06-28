@@ -61,15 +61,12 @@ public class _32_Diziler_x0_Login {
 				}
 			}
 		}
-		
 	}
 	
 	public static void main(String[] args) {
-		
 		while (true) {
 			String[] dizi = userLogin();
 			userValidation(dizi);
 		}
 	}
-	
 }
